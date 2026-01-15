@@ -20,3 +20,4 @@ Applications that use the PostgreSQL database use environment variables for the 
 
 ## Setting up a Second Git Account
 
+You might want to develop for Loretale on an account that isn't connected to your IRL identity or work. In this case, there is some options to manage this. Namely, look at the following stack overflow link: https://stackoverflow.com/questions/8801729/is-it-possible-to-have-different-git-configuration-for-different-projects . Be sure that, before you push something, you check your commits to make sure you commited with the right credentials.
